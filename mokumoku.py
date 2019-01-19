@@ -1,6 +1,5 @@
 # coding: utf-8
 from sys import argv as arg
-import urllib.request as req
 import wave
 
 import numpy as np
